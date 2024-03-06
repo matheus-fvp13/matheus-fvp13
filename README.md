@@ -8,7 +8,7 @@ Além do universo da tecnologia, tenho interesses variados. Gosto de acampar par
 
 Acredito que o conhecimento pode tranformar a vida das pessoas e por esse motivo estou sempre disposto a compartilhar-lo. Sinta-se à vontade para conhecer meus projetos, colaborar ou entrar em contato para trocar ideias. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 
-Vamos construir algo incrível juntos! 🚀✨ 
+Vamos construir juntos algo incrível! 🚀✨ 
 
 
 # I'm learning
