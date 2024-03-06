@@ -11,7 +11,7 @@ Acredito que o conhecimento pode tranformar a vida das pessoas e por esse motivo
 Vamos construir juntos algo incrível! 🚀✨ 
 
 
-# I'm learning
+# Estou aprendendo
 <div style="display:flex; justify-content:center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width=100px height=100px />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width=100px height=100px />
