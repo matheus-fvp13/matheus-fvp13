@@ -1,14 +1,15 @@
 # Sobre mim
-Olá! 👋 Eu sou Matheus, graduado em Ciência da Computação pela UFSCar. Desde a infância, sou apaixonado por tecnologia, especialmente pelo mundo dos jogos digitais, que despertou meu interesse e me motivou a explorar a fascinante área da computação.
+Olá,
 
-Sempre busco desafios que me permitam expandir meus conhecimentos e aprimorar minhas habilidades técnicas. Ao longo da minha jornada acadêmica e profissional, desenvolvi uma sólida base em ciência da computação, programação e resolução de problemas.
-Atualmente, meu foco está na área de desenvolvimento de software, onde venho explorando e aplicando conceitos modernos para criar soluções eficientes e inovadoras.
+Me chamo Matheus Vieira e sou um desenvolvedor backend Java em inicio de carreira, apaixonado por tecnologia e sempre em busca de novos desafios.
 
-Além do universo da tecnologia, tenho interesses variados. Gosto de acampar para me conectar com a natureza, desfrutar de momentos de paz e aventura. Sou também um entusiasta da música e não resisto a uma boa sessão de cantoria, seja no chuveiro ou na igreja.
+Me considero um profissional estudioso, dedicado e disposto a encarar qualquer desafio em busca de crescimento, priorizando sempre o trabalho em equipe e o desenvolvimento de soluções inovadoras, ágeis e eficazes. 
 
-Acredito que o conhecimento pode tranformar a vida das pessoas e por esse motivo estou sempre disposto a compartilhar-lo. Sinta-se à vontade para conhecer meus projetos, colaborar ou entrar em contato para trocar ideias. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+Nos últimos meses venho estudando e desenvolvendo projetos pessoais relacionadas a linguagem de programação Java para a construção de APIs REST com o Spring Framework, Spring Boot, Spring Web, Spring Data JPA, Spring Security, JUnit, Mockito, Hibernate, Maven, Gradle, Swagger e Docker. 
 
-Vamos construir juntos algo incrível! 🚀✨ 
+Sou graduado em ciência da computação pela Universidade Federal de São Carlos. Um dos fatores pelo qual escolhi o curso é a minha paixão pelo potencial transformador da tecnologia na vida das pessoas.
+
+Estou pronto para abraçar novas oportunidades e enfrentar desafios que me permitam crescer profissionalmente enquanto contribuo para o avanço da tecnologia. 
 
 
 # Estou aprendendo
